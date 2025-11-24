@@ -34,7 +34,8 @@ Column	Description
 
 **File Naming Convention:**
 
- <Study><Co/Pt><Subject>_<Walk>.txt
+\<Study>\<Co/Pt>\<Subject>_\<Walk>.txt
+
 
 Study: Ga, Ju, Si
 
