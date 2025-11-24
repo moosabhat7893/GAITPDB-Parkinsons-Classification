@@ -44,7 +44,7 @@ Walk: 01 = normal walk, 10 = dual-task walk
 
 
 
-Citation:
+**Citation:**
 
 APA:
 
@@ -99,11 +99,13 @@ The x-axis represents time steps, and the y-axis represents normalized force (N)
 
 This visualization highlights how Parkinson’s patients exhibit altered gait patterns compared to healthy individuals.
 
-![Gait Wave Overlay](images/gait_wave_overlay.png)
+![Gait Wave Overlay](gait_wave_overlay.png.png)
+
 
 **Training Accuracy / Loss Plot**
 
-![Accuracy/Loss](images/accuracy_loss.png)
+![Accuracy and Loss](accuracy_loss.png.png)
+
 # Future Enhancements
 
 Incorporate more sensor modalities (accelerometer, gyroscope)
