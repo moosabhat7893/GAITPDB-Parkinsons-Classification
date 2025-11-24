@@ -89,10 +89,21 @@ Visualization shows clear differences in gait waveforms between PD and healthy s
 
 # Visual Outputs
 
-Sample Gait Wave Overlays (PD in red, Healthy in green)
+**Sample Gait Wave Overlays (PD , Healthy)**
+
+This plot shows the difference in gait patterns between a Parkinson’s patient (red) and a healthy control (green).
+
+The waveform is created by averaging all 18 insole sensors for each foot, giving a clear, single representation of overall gait forces.
+
+The x-axis represents time steps, and the y-axis represents normalized force (N).
+
+This visualization highlights how Parkinson’s patients exhibit altered gait patterns compared to healthy individuals.
+
+![Gait Wave Overlay](images/gait_wave_overlay.png)
 
 **Training Accuracy / Loss Plot**
 
+![Accuracy/Loss](images/accuracy_loss.png)
 # Future Enhancements
 
 Incorporate more sensor modalities (accelerometer, gyroscope)
